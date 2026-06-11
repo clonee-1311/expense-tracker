@@ -6,15 +6,6 @@ A small full-stack web app where a user can log daily expenses across categories
 
 ---
 
-## Live Demo
-
-> _Add your deployed links here after deploying_
->
-> Frontend: `https://your-app.vercel.app`  
-> Backend: `https://your-api.onrender.com`
-
----
-
 ## Tech Stack
 
 | Layer    | Choice                                | Why                                               |
