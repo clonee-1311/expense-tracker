@@ -18,6 +18,11 @@ A small full-stack web app where a user can log daily expenses across categories
 
 ---
 
+## Live Demo
+
+Frontend: https://expense-tracker-mu-ten-35.vercel.app/
+Backend: https://expense-tracker-api-ng2t.onrender.com
+
 ## How to Run Locally
 
 > Assumes you have **Node.js v18+** installed. That's all you need.
