@@ -1,6 +1,8 @@
 import { useState, useEffect, useCallback } from "react";
 
-const BASE = "/api/expenses";
+const BASE = import.meta.env.VITE_API_URL
+  ? `${import.meta.env.VITE_API_URL}/api/expenses`
+  : "/api/expenses";
 
 // This hook owns all the data-fetching logic.
 // Components just call the functions - they don't need to know about fetch() at all.
